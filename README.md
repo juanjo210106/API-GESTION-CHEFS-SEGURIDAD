@@ -49,7 +49,7 @@ El sistema cuenta con tres roles diferenciados (`ADMIN`, `CHEF`, `CLIENTE`) gest
 * Maven.
 * PostgreSQL instalado y ejecutándose.
 
-### 1. Configuración de Base de Datos
+### Configuración de Base de Datos
 Crea una base de datos en PostgreSQL llamada `simulacro_db`.
 El proyecto está configurado en `application.properties` con:
 ```properties
